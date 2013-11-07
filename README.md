@@ -23,4 +23,4 @@ developed this game in one day.
 
 Procedure:
 
-  Create a single view application in x-Code and use the viewController code in repository. Use your own images for animation. :)
+  Create a single view application in x-Code and use the viewController code in repository. Use your own images for animation purpose. :)
