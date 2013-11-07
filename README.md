@@ -10,7 +10,7 @@ Role : Developer, Designer, Tester.
 
 Project Description:
 
-BugCrusher provide most entertaing experience. It makes the user addictive. This game uses 
+BugCrusher provides most entertaing experience. It makes the user addictive. This game uses 
 
 the simple core animations.It contains the animated dancing cartoon which cruches the random 
 
