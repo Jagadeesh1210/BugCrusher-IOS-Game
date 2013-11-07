@@ -1,3 +1,5 @@
+I newly learned the Objective-C& CocoaTouch framework. Then i started practicing small applications. Fortunately Xcode(IDE) provides good frameworks. By using the core animations and simple timers i developed and designed this a game Called "BugCrusher". It makes me confident in this app world.
+
 BugCrusher(IOS Game)
 
 Name: BugCrusher
