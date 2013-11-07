@@ -19,3 +19,8 @@ generated bugs(insects) in application. When user clicks on the bug animated dan
 the bug. After 30sec. User score will shows on the screen with grades depend on the score. I 
 
 developed this game in one day.
+
+
+Procedure:
+
+  Create a single view application in x-Code and use the viewController code in repository. Use your own images for animation. :)
